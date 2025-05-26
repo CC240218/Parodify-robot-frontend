@@ -26,7 +26,7 @@ Deve confirmar a musica que está tocando pelo footer
     Play pause music                  ${data}[title]    play
     Should be footer music playing    ${data}[title]    ${data}[artist]    
 
-Deve validar quanto tempo tem a musica
+Deve validar a duração da musica
 
     [Tags]    musicDuration
 
