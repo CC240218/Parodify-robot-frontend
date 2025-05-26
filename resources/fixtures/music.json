@@ -1,0 +1,28 @@
+
+{
+    "Jira_182":{
+            "id": 1,
+            "title": "All The Small Sprints",
+            "artist": "Jira 182",
+            "description": "Jira 182",
+            "duration": "02:03"
+        },
+    "The_Offsprint":{
+            "id": 2,
+            "title": "The Devs Aren't Alright",
+            "artist": "The Offsprint",
+            "description": "The Offsprint",
+            "duration": "01:40"
+        },
+    "Megatest":{
+            "id": 6,
+            "title": "Symphony of Production",
+            "artist": "Megatest",
+            "description": "Megatest",
+            "duration": "01:51"
+        },
+     "Not_Found":{
+        "notice": "Desculpe, não encontramos nenhuma música com termo informado.",
+        "title": "Musica inexistente"
+     }
+}
